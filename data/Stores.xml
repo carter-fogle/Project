@@ -1,0 +1,128 @@
+<?xml version="1.0" ?> 
+<Persons>
+  <Store>
+    <anc>swr123</anc>
+    <manager>
+      <anc>kje901</anc>
+      <firstName>Christopher</firstName>
+      <lastName>Lee</lastName>
+      <address>
+        <street>1010 1st St</street>
+        <city>San Francisco</city>
+        <state>CA</state>
+        <zip>94110</zip>
+        <country>USA</country>
+      </address>
+      <emails>
+        <string>chris.lee@gmail.com</string>
+      </emails>
+    </manager>
+    <address>
+      <street>123 Main St</street>
+      <city>Anytown</city>
+      <state>NY</state>
+      <zip>12345</zip>
+      <country>USA</country>
+    </address>
+  </Store>
+  <Store>
+    <anc>hgr456</anc>
+    <manager>
+      <anc>rtb345</anc>
+      <firstName>David</firstName>
+      <lastName>Nguyen</lastName>
+      <address>
+        <street>456 Market St</street>
+        <city>Seattle</city>
+        <state>WA</state>
+        <zip>98101</zip>
+        <country>USA</country>
+      </address>
+      <emails>
+        <string>david.nguyen@gmail.com</string>
+      </emails>
+    </manager>
+    <address>
+      <street>456 Oak Ave</street>
+      <city>Smallville</city>
+      <state>CA</state>
+      <zip>67890</zip>
+      <country>USA</country>
+    </address>
+  </Store>
+  <Store>
+    <anc>ser789</anc>
+    <manager>
+      <anc>pwl789</anc>
+      <firstName>Katherine</firstName>
+      <lastName>Taylor</lastName>
+      <address>
+        <street>90123 7th St</street>
+        <city>Dallas</city>
+        <state>TX</state>
+        <zip>75201</zip>
+        <country>USA</country>
+      </address>
+      <emails>
+        <string>katherine.taylor@gmail.com</string>
+      </emails>
+    </manager>
+    <address>
+      <street>789 Maple St</street>
+      <city>Bigcity</city>
+      <state>TX</state>
+      <zip>54321</zip>
+      <country>USA</country>
+    </address>
+  </Store>
+  <Store>
+    <anc>por012</anc>
+    <manager>
+      <anc>mne567</anc>
+      <firstName>Emily</firstName>
+      <lastName>Chen</lastName>
+      <address>
+        <street>5678 3rd St</street>
+        <city>New York</city>
+        <state>NY</state>
+        <zip>10001</zip>
+        <country>USA</country>
+      </address>
+      <emails>
+        <string>emily.chen@gmail.com</string>
+      </emails>
+    </manager>
+    <address>
+      <street>1010 Elm St</street>
+      <city>Midtown</city>
+      <state>FL</state>
+      <zip>24680</zip>
+      <country>USA</country>
+    </address>
+  </Store>
+  <Store>
+    <anc>gta345</anc>
+    <manager>
+      <anc>qwm012</anc>
+      <firstName>Justin</firstName>
+      <lastName>Wong</lastName>
+      <address>
+        <street>23456 8th Ave</street>
+        <city>Atlanta</city>
+        <state>GA</state>
+        <zip>30303</zip>
+        <country>USA</country>
+      </address>
+      <emails>
+        <string>justin.wong@gmail.com</string>
+      </emails>
+    </manager>
+    <address>
+      <street>456 Market St</street>
+      <city>Seattle</city>
+      <state>WA</state>
+      <zip>98101</zip>
+      <country>USA</country>
+    </address>
+  </Store>
+</Persons>

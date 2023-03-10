@@ -1,0 +1,90 @@
+[
+  {
+    "name": "Corn Harvester",
+    "model": "John Deer",
+    "anc": "fzr895",
+    "type": "E"
+  },
+  {
+    "name": "Oil",
+    "unit": "liter",
+    "unitPrice": 14.25,
+    "anc": "kpv217",
+    "type": "P"
+  },
+  {
+    "name": "Delivery",
+    "hourlyRate": 700.0,
+    "anc": "wmj476",
+    "type": "S"
+  },
+  {
+    "name": "Puller",
+    "model": "Case 1850j",
+    "anc": "qxt129",
+    "type": "E"
+  },
+  {
+    "name": "Tractor",
+    "model": "John Deer 780TI",
+    "anc": "hnb382",
+    "type": "E"
+  },
+  {
+    "name": "Battery",
+    "unit": "Battery",
+    "unitPrice": 123.45,
+    "anc": "rge974",
+    "type": "P"
+  },
+  {
+    "name": "Roughing",
+    "hourlyRate": 120.0,
+    "anc": "ldu753",
+    "type": "S"
+  },
+  {
+    "name": "Chicken Seed",
+    "unit": "bag",
+    "unitPrice": 9.95,
+    "anc": "vck601",
+    "type": "P"
+  },
+  {
+    "name": "Truck",
+    "model": "Peter-Built 2016",
+    "anc": "tmo845",
+    "type": "E"
+  },
+  {
+    "name": "nails",
+    "unit": "box",
+    "unitPrice": 5.0,
+    "anc": "nai523",
+    "type": "P"
+  },
+  {
+    "name": "Detasseling",
+    "hourlyRate": 140.35,
+    "anc": "spj068",
+    "type": "S"
+  },
+  {
+    "name": "Corn Harvester",
+    "model": "Case 165",
+    "anc": "yqo287",
+    "type": "E"
+  },
+  {
+    "name": "Crop Duster",
+    "model": "Cessna 220",
+    "anc": "dbw934",
+    "type": "E"
+  },
+  {
+    "name": "Fencing",
+    "hourlyRate": 150.25,
+    "anc": "jfx706",
+    "type": "S"
+  }
+]

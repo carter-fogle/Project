@@ -1,0 +1,229 @@
+[
+  {
+    "anc": "das123",
+    "firstName": "Carter",
+    "lastName": "Fogle",
+    "address": {
+      "street": "123 Main St",
+      "city": "Anytown",
+      "state": "NY",
+      "zip": "12345",
+      "country": "USA"
+    },
+    "emails": [
+      "john.smith@gmail.com"
+    ]
+  },
+  {
+    "anc": "hgd456",
+    "firstName": "Jane",
+    "lastName": "Doe",
+    "address": {
+      "street": "456 Oak Ave",
+      "city": "Smallville",
+      "state": "CA",
+      "zip": "67890",
+      "country": "USA"
+    },
+    "emails": [
+      "jane.doe@gmail.com",
+      "jane_doe@hotmail.com"
+    ]
+  },
+  {
+    "anc": "pfd789",
+    "firstName": "William",
+    "lastName": "Johnson",
+    "address": {
+      "street": "789 Maple St",
+      "city": "Bigcity",
+      "state": "TX",
+      "zip": "54321",
+      "country": "USA"
+    },
+    "emails": [
+      "will.johnson@gmail.com"
+    ]
+  },
+  {
+    "anc": "rtc012",
+    "firstName": "Samantha",
+    "lastName": "Williams",
+    "address": {
+      "street": "1010 Elm St",
+      "city": "Midtown",
+      "state": "FL",
+      "zip": "24680",
+      "country": "USA"
+    },
+    "emails": [
+      "sam.williams@gmail.com",
+      "sam.williams@yahoo.com"
+    ]
+  },
+  {
+    "anc": "rtb345",
+    "firstName": "David",
+    "lastName": "Nguyen",
+    "address": {
+      "street": "456 Market St",
+      "city": "Seattle",
+      "state": "WA",
+      "zip": "98101",
+      "country": "USA"
+    },
+    "emails": [
+      "david.nguyen@gmail.com"
+    ]
+  },
+  {
+    "anc": "hje678",
+    "firstName": "Amanda",
+    "lastName": "Miller",
+    "address": {
+      "street": "789 Broadway St",
+      "city": "Portland",
+      "state": "OR",
+      "zip": "97205",
+      "country": "USA"
+    },
+    "emails": [
+      "amanda.miller@gmail.com"
+    ]
+  },
+  {
+    "anc": "kje901",
+    "firstName": "Christopher",
+    "lastName": "Lee",
+    "address": {
+      "street": "1010 1st St",
+      "city": "San Francisco",
+      "state": "CA",
+      "zip": "94110",
+      "country": "USA"
+    },
+    "emails": [
+      "chris.lee@gmail.com"
+    ]
+  },
+  {
+    "anc": "iak234",
+    "firstName": "Stephanie",
+    "lastName": "Brown",
+    "address": {
+      "street": "1234 2nd Ave",
+      "city": "Los Angeles",
+      "state": "CA",
+      "zip": "90001",
+      "country": "USA"
+    },
+    "emails": [
+      "steph.brown@gmail.com"
+    ]
+  },
+  {
+    "anc": "mne567",
+    "firstName": "Emily",
+    "lastName": "Chen",
+    "address": {
+      "street": "5678 3rd St",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10001",
+      "country": "USA"
+    },
+    "emails": [
+      "emily.chen@gmail.com"
+    ]
+  },
+  {
+    "anc": "oew890",
+    "firstName": "Carlos",
+    "lastName": "Garcia",
+    "address": {
+      "street": "8900 4th St",
+      "city": "Houston",
+      "state": "TX",
+      "zip": "77002",
+      "country": "USA"
+    },
+    "emails": [
+      "carlos.garcia@gmail.com"
+    ]
+  },
+  {
+    "anc": "ple123",
+    "firstName": "Hannah",
+    "lastName": "Kim",
+    "address": {
+      "street": "12345 5th Ave",
+      "city": "Chicago",
+      "state": "IL",
+      "zip": "60601",
+      "country": "USA"
+    },
+    "emails": [
+      "hannah.kim@gmail.com"
+    ]
+  },
+  {
+    "anc": "mwo456",
+    "firstName": "Michael",
+    "lastName": "Smith",
+    "address": {
+      "street": "67890 6th Ave",
+      "city": "Miami",
+      "state": "FL",
+      "zip": "33131",
+      "country": "USA"
+    },
+    "emails": [
+      "michael.smith@gmail.com"
+    ]
+  },
+  {
+    "anc": "pwl789",
+    "firstName": "Katherine",
+    "lastName": "Taylor",
+    "address": {
+      "street": "90123 7th St",
+      "city": "Dallas",
+      "state": "TX",
+      "zip": "75201",
+      "country": "USA"
+    },
+    "emails": [
+      "katherine.taylor@gmail.com"
+    ]
+  },
+  {
+    "anc": "qwm012",
+    "firstName": "Justin",
+    "lastName": "Wong",
+    "address": {
+      "street": "23456 8th Ave",
+      "city": "Atlanta",
+      "state": "GA",
+      "zip": "30303",
+      "country": "USA"
+    },
+    "emails": [
+      "justin.wong@gmail.com"
+    ]
+  },
+  {
+    "anc": "pke345",
+    "firstName": "Mary",
+    "lastName": "Anderson",
+    "address": {
+      "street": "78901 9th St",
+      "city": "Detroit",
+      "state": "MI",
+      "zip": "48201",
+      "country": "USA"
+    },
+    "emails": [
+      "mary.anderson@gmail.com"
+    ]
+  }
+]

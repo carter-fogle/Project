@@ -1,0 +1,91 @@
+<?xml version="1.0" ?>
+<Items>
+  <Equipment>
+    <anc>fzr895</anc>
+    <type>E</type>
+    <name>Corn Harvester</name>
+    <model>John Deer</model>
+  </Equipment>
+  <Product>
+    <anc>kpv217</anc>
+    <type>P</type>
+    <name>Oil</name>
+    <unit>liter</unit>
+    <unitPrice>14.25</unitPrice>
+  </Product>
+  <Service>
+    <anc>wmj476</anc>
+    <type>S</type>
+    <name>Delivery</name>
+    <hourlyRate>700.0</hourlyRate>
+  </Service>
+  <Equipment>
+    <anc>qxt129</anc>
+    <type>E</type>
+    <name>Puller</name>
+    <model>Case 1850j</model>
+  </Equipment>
+  <Equipment>
+    <anc>hnb382</anc>
+    <type>E</type>
+    <name>Tractor</name>
+    <model>John Deer 780TI</model>
+  </Equipment>
+  <Product>
+    <anc>rge974</anc>
+    <type>P</type>
+    <name>Battery</name>
+    <unit>Battery</unit>
+    <unitPrice>123.45</unitPrice>
+  </Product>
+  <Service>
+    <anc>ldu753</anc>
+    <type>S</type>
+    <name>Roughing</name>
+    <hourlyRate>120.0</hourlyRate>
+  </Service>
+  <Product>
+    <anc>vck601</anc>
+    <type>P</type>
+    <name>Chicken Seed</name>
+    <unit>bag</unit>
+    <unitPrice>9.95</unitPrice>
+  </Product>
+  <Equipment>
+    <anc>tmo845</anc>
+    <type>E</type>
+    <name>Truck</name>
+    <model>Peter-Built 2016</model>
+  </Equipment>
+  <Product>
+    <anc>nai523</anc>
+    <type>P</type>
+    <name>nails</name>
+    <unit>box</unit>
+    <unitPrice>5.0</unitPrice>
+  </Product>
+  <Service>
+    <anc>spj068</anc>
+    <type>S</type>
+    <name>Detasseling</name>
+    <hourlyRate>140.35</hourlyRate>
+  </Service>
+  <Equipment>
+    <anc>yqo287</anc>
+    <type>E</type>
+    <name>Corn Harvester</name>
+    <model>Case 165</model>
+  </Equipment>
+  <Equipment>
+    <anc>dbw934</anc>
+    <type>E</type>
+    <name>Crop Duster</name>
+    <model>Cessna 220</model>
+  </Equipment>
+  <Service>
+    <anc>jfx706</anc>
+    <type>S</type>
+    <name>Fencing</name>
+    <hourlyRate>150.25</hourlyRate>
+  </Service>
+</Items>

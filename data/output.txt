@@ -1,0 +1,68 @@
+INV001
+Store: gta345,qwm012,456 Market St,Seattle,WA,98101,USA
+	Manager: qwm012,Wong,Justin,23456 8th Ave,Atlanta,GA,30303,USA,justin.wong@gmail.com
+Customer: das123,Fogle,Carter,123 Main St,Anytown,NY,12345,USA,john.smith@gmail.com
+Salesman: ple123,Kim,Hannah,12345 5th Ave,Chicago,IL,60601,USA,hannah.kim@gmail.com
+
+Item: fzr895,E,Corn Harvester,John Deer
+	Price: P,75000 
+	
+	Amount: $75,000.00
+	Tax: $0.0
+	
+Item: kpv217,P,Oil,liter,14.25
+	Quantity: 2
+	
+	Amount: $28.50
+	Tax: $2.04
+	
+	Subtotal: $75028.50
+	Total Tax: $2.04
+	Grand Total: $75030.54
+	
+	
+INV002 
+Store: ser789,pwl789,789 Maple St,Bigcity,TX,54321,USA
+	Manager: pwl789,Taylor,Katherine,90123 7th St,Dallas,TX,75201,USA,katherine.taylor@gmail.com
+Customer: rtc012,Williams,Samantha,1010 Elm St,Midtown,FL,24680,USA,sam.williams@gmail.com,sam.williams@yahoo.com
+Salesman: hgd456,Doe,Jane,456 Oak Ave,Smallville,CA,67890,USA,jane.doe@gmail.com,jane_doe@hotmail.com
+
+Item: ldu753,S,Roughing,120
+	Hours: 2.5
+	
+	Amount: $300.00
+	Tax: $10.35
+	
+Item: qxt129,E,Puller,Case 1850j
+	 Lease: 2023-02-01 -> 2024-01-31
+	 Monthly: 1500
+	 
+	 Amount: $18250.00
+	 Tax: $500.00
+	 
+	Subtotal: $19060.35
+	Total Tax: $510.35
+	Grand Total: $19570.70
+	
+
+INV003
+Store: swr123,kje901,123 Main St,Anytown,NY,12345,USA
+	Manager: kje901,Lee,Christopher,1010 1st St,San Francisco,CA,94110,USA,chris.lee@gmail.com
+Customer: iak234,Brown,Stephanie,1234 2nd Ave,Los Angeles,CA,90001,USA,steph.brown@gmail.com
+Salesman: pke345,Anderson,Mary,78901 9th St,Detroit,MI,48201,USA,mary.anderson@gmail.com
+
+Item: nai523,P,nails,box,5.00
+	Quantity: 15
+	
+	Amount: $75
+	Tax: $5.36
+	
+Item: jfx706,S,Fencing,150.25
+	Hours: 9
+	
+	Amount: $1352.25
+	Tax: $46.65
+	
+	Subtotal: $19135.35
+	Total Tax: $52.01
+	Grand Total: $19187.36
